@@ -17,3 +17,6 @@
 ## Mode of grouped data
      L + [ { frequency of modal class (f1) - frequency of class before modal class (f0) } / 
            { 2*frequency of modal class(f1) - frequency of class before modal class(f0) - frequency of class after modal class(f2) } ] * h
+
+### Relation between Mean, Median, Mode
+      ## Mode ~ 3*Median - 2Mean
